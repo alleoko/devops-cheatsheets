@@ -1,6 +1,5 @@
 # ELK Stack Cheatsheet
 
-![text](https://imgur.com/wLayBA4.png)
 
 **1. Introduction:**
 

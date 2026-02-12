@@ -1,6 +1,5 @@
 # BitBucket Cheatsheet
 
-![text](https://imgur.com/7PDN0aZ.png)
 
 Bitbucket, developed by Atlassian, is a Git-based source code repository hosting service. It is designed for teams and provides strong integration with other Atlassian tools like Jira, Trello, and Confluence. This cheatsheet provides a detailed guide for mastering Bitbucket from basic operations to advanced features.
 

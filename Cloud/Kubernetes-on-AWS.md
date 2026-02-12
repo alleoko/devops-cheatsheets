@@ -1,6 +1,5 @@
 # Kubernetes on AWS Cheatsheet
 
-![text](https://imgur.com/lWOk4cE.png)
 
 ## 1. Introduction to Kubernetes on AWS
 

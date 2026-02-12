@@ -1,6 +1,5 @@
 # 📜 **Ansible Cheatsheet**  
 
-![ansible](https://imgur.com/XwECXoK.png)
 
 ## **🔹 Introduction to Ansible**  
 

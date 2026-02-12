@@ -1,6 +1,5 @@
 # Jenkins Cheatsheet
 
-![](https://imgur.com/jWGs9lH.png)
 
 **1. Introduction:**
 

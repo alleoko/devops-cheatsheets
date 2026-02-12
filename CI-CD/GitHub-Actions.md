@@ -1,6 +1,5 @@
 # GitHub Actions Cheatsheet
 
-![](https://imgur.com/GMwRo18.png)
 
 **1. Introduction:**
 

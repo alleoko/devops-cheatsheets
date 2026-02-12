@@ -1,6 +1,5 @@
 # Istio Cheatsheet
 
-![text](https://imgur.com/QLlMSCp.png)
 
 ## **Overview**
 

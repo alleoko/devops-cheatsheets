@@ -1,6 +1,5 @@
 # Trivy Cheatsheet
 
-![text](https://imgur.com/TYu7qw7.png)
 
 **1. Introduction:**
 

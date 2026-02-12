@@ -1,6 +1,5 @@
 # SonarQube Cheatsheet
 
-![text](https://imgur.com/l49w71S.png)
 
 **1. Introduction:**
 

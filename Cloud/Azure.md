@@ -1,6 +1,5 @@
 # Azure Cheatsheet
 
-![text](https://imgur.com/f7RWwnx.png)
 
 **1. Introduction:**
 

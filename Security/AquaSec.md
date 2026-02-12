@@ -1,6 +1,5 @@
 # AquaSec Cheatsheet
 
-![text](https://imgur.com/8MBLV6G.png)
 
 **1. Introduction:**
 

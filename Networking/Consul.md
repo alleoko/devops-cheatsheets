@@ -1,6 +1,5 @@
 # Consul Cheatsheet
 
-![text](https://imgur.com/RWncIhL.png)
 
 ## **Overview**
 

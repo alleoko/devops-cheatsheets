@@ -1,6 +1,5 @@
 # Grafana Cheatsheet
 
-![text](https://imgur.com/j07r4L6.png)
 
 **1. Introduction:**
 

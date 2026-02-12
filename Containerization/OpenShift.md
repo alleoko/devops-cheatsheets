@@ -1,6 +1,5 @@
 # OpenShift Cheatsheet
 
-![text](https://imgur.com/2HuS6vE.png)
 
 ## Table of Contents
 

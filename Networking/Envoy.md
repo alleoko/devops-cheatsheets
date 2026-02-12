@@ -1,6 +1,5 @@
 # Envoy Cheatsheet
 
-![text](https://imgur.com/iw5sG1a.png)
 
 ## **Overview**
 

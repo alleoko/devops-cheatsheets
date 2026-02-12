@@ -1,6 +1,5 @@
 # Github Cheatsheet
 
-![text](https://imgur.com/c189VXy.png)
 
 **GitHub** is a powerful platform for version control, collaboration, CI/CD automation, and DevOps workflows. This cheatsheet provides an in-depth guide to using GitHub, covering basic operations to advanced features.
 

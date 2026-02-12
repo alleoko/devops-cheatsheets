@@ -1,6 +1,5 @@
 # Linkerd Cheatsheet
 
-![text](https://imgur.com/xyQcgGf.png)
 
 ## **Overview**
 

@@ -1,6 +1,5 @@
 # CRI-O Cheatsheet
 
-![text](https://imgur.com/iET0fW6.png)
 
 ## Table of Contents
 

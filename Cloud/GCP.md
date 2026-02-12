@@ -1,6 +1,5 @@
 # GCP Cheatsheet
 
-![text](https://imgur.com/2MpF0w5.png)
 
 **1. Introduction:**
 

@@ -1,6 +1,5 @@
 # Kubernetes Cheatsheet
 
-![text](https://imgur.com/aYuSIvY.png)
 
 ## Checkout detailed article on [Dev.to](https://dev.to/prodevopsguytech/kubernetes-commands-for-devops-engineers-124o)
 

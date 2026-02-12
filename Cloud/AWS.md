@@ -1,6 +1,5 @@
 # AWS Cheatsheet
 
-![text](https://imgur.com/DDbwilK.png)
 
 **1. Introduction:**
 

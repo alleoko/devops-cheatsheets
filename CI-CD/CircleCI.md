@@ -1,6 +1,5 @@
 # CircleCI Cheatsheet
 
-![](https://imgur.com/s6aXKl9.png)
 
 **1. Introduction:**
 

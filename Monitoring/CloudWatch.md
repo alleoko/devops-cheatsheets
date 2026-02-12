@@ -1,6 +1,5 @@
 # CloudWatch Cheatsheet
 
-![text](https://imgur.com/BU5g7ce.png)
 
 Amazon CloudWatch is a comprehensive monitoring and management service designed for AWS and hybrid cloud applications. This guide covers everything from basic concepts to advanced configurations, helping you leverage CloudWatch for performance monitoring, troubleshooting, and operational insights.
 

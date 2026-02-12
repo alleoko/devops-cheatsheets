@@ -1,6 +1,5 @@
 # HashiCorp Vault Cheatsheet
 
-![text](https://imgur.com/322q6Pi.png)
 
 **1. Introduction:**
 
