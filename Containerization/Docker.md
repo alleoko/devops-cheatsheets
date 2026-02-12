@@ -1,5 +1,9 @@
 # Docker Cheatsheet
 
+![text](https://imgur.com/XHwJp6U.png)
+
+## Checkout detailed article on [Dev.to](https://dev.to/prodevopsguytech/docker-commands-from-beginner-to-advanced-for-devops-engineers-bb3)
+
 ## 1. Introduction to Docker
 
 ### What is Docker?
